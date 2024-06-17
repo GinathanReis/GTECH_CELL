@@ -70,7 +70,7 @@ function addCarrinho(event) {
     const botaoRemover = itemCarrinho.querySelector('.btn-remover');
     botaoRemover.addEventListener('click', () => {
         itemCarrinho.remove();
-        console.log(NumeroIntensCarrinho)
+    
     });
 
     
@@ -80,23 +80,22 @@ carregarProdutos();
 
 
 function fecharCarrinho() {
-    const carrinho = document.getElementById('carrinho');
-    carrinho.style.display = "none";
+    const contCarrinho = document.getElementById('contCarrinho');
+    contCarrinho.style.display = "none";
 
    
     
 }
 
 function abrirCarrinho() {
-    const carrinho = document.getElementById('carrinho');
-    carrinho.style.display = "flex";
+    const contCarrinho = document.getElementById('contCarrinho');
+    contCarrinho.style.display = "flex";
 }
 
 
 
 
  
- console.log(totalDeItens)
 
 
 
