@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "nome": "Samsung Galaxy S22 Plus",
+        "descriçao": "Redesigned from scratch and completely revised",
+        "valor": 199,
+        "imagem":"https://static.doji.co/product/medias/smartphones/samsung/galaxy-s22-plus-5g/1-front-back-verde.png"
+    },
+    {
+        "id": 1,
+        "nome": "Galaxy S22 sets",
+        "descriçao": "Redesigned from scratch and completely revised",
+        "valor": 199,
+        "imagem":"https://m.media-amazon.com/images/I/816r8TZmm9L.jpg"
+        
+    },
+    {
+        "id": 1,
+        "nome": "Redmi Note 12 Pro 5g",
+        "descriçao": "Redesigned from scratch and completely revised",
+        "valor": 199,
+        "imagem":"https://http2.mlstatic.com/D_NQ_NP_679743-MLB53709358798_022023-O.webp"
+    },
+    {
+        "id": 1,
+        "nome": "Note 64GB Dual Sim",
+        "descriçao": "Redesigned from scratch and completely revised",
+        "valor": 199,
+        "imagem":"https://m.phonegg.com/135/13517b-3.jpg"
+    },
+    {
+        "id": 1,
+        "nome": "Galaxy S22 sets",
+        "descriçao": "Redesigned from scratch and completely revised",
+        "valor": 199,
+        "imagem":"https://m.media-amazon.com/images/I/816r8TZmm9L.jpg"
+    },
+    {
+        "id": 1,
+        "nome": "Samsung Galaxy S22 Plus",
+        "descriçao": "Redesigned from scratch and completely revised",
+        "valor": 199,
+        "imagem":"https://static.doji.co/product/medias/smartphones/samsung/galaxy-s22-plus-5g/1-front-back-verde.png"
+    },
+    {
+        "id": 1,
+        "nome": "Redmi Note 12 Pro 5g",
+        "descriçao": "Redesigned from scratch and completely revised",
+        "valor": 199,
+        "imagem":"https://http2.mlstatic.com/D_NQ_NP_679743-MLB53709358798_022023-O.webp"
+    },
+    {
+        "id": 1,
+        "nome": "Note 64GB Dual Sim",
+        "descriçao": "Redesigned from scratch and completely revised",
+        "valor": 199,
+        "imagem":"https://m.phonegg.com/135/13517b-3.jpg"
+    },
+    {
+        "id": 1,
+        "nome": "Galaxy S22 sets",
+        "descriçao": "Redesigned from scratch and completely revised",
+        "valor": 199,
+        "imagem":"https://m.media-amazon.com/images/I/816r8TZmm9L.jpg"
+    },
+    {
+        "id": 1,
+        "nome": "Redmi Note 12 Pro 5g",
+        "descriçao": "Redesigned from scratch and completely revised",
+        "valor": 199,
+        "imagem":"https://http2.mlstatic.com/D_NQ_NP_679743-MLB53709358798_022023-O.webp"
+    }
+]
